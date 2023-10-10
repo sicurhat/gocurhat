@@ -1,1 +1,1 @@
-# gocurhat
+# gocurhat.github.io
